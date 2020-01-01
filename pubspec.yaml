@@ -1,8 +1,8 @@
 name: unsplash_api_dart
 description: A new Flutter package for unsplash API
 version: 0.0.1
-author:
-homepage:
+author: ChangJoo Park<pcjpcj2@gmail.com>
+homepage: https://github.com/ChangJoo-Park/unsplash_api_dart
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
